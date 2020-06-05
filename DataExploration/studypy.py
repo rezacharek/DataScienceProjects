@@ -1,0 +1,2 @@
+import pandas as pd
+pd.read_excel('/Users/romanzacharek/Documents/DataScienceProjects/DataExploration/default_of_credit_card_clients__courseware_version_1_21_19.xls')
